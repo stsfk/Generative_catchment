@@ -1,2 +1,2 @@
 # Generative_catchment
-Paper on "Modelling catchments – a data generating prospective".
+The paper "Learning to Generate Lumped Hydrological Models" is now available: http://arxiv.org/abs/2309.09904.
